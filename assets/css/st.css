@@ -1,0 +1,10 @@
+.hl_span_mark {
+    border: 1px none #a6e22d;
+    border-bottom-style: solid;
+    border-radius: 0.25em;
+    box-sizing: border-box;
+    color: #333;
+    transition: background-color .25s ease-in-out, border .25s ease-in-out;
+    -moz-transition: background-color .25s ease-in-out, border .25s ease-in-out;
+    -webkit-transition: background-color .25s ease-in-out, border .25s ease-in-out;
+}
