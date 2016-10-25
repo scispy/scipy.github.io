@@ -3,7 +3,7 @@
     border-bottom-style: solid;
     border-radius: 0.25em;
     box-sizing: border-box;
-    color: #333;
+    color: #fff;
     transition: background-color .25s ease-in-out, border .25s ease-in-out;
     -moz-transition: background-color .25s ease-in-out, border .25s ease-in-out;
     -webkit-transition: background-color .25s ease-in-out, border .25s ease-in-out;
